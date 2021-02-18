@@ -8,6 +8,7 @@ public class MongoLabApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MongoLabApplication.class, args);
+
 	}
 
 }
